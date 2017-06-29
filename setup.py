@@ -5,8 +5,8 @@
 #
 
 release_version='0.0.2'
-panda_user = 'panda'
-panda_group = 'panda'
+panda_user = 'root'
+panda_group = 'root'
 
 # set PYTHONPATH to use the current directory first
 import sys
